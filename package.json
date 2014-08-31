@@ -1,6 +1,6 @@
 {
   "name": "hubot-rot13",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Hubot script that rotates by 13 places",
   "main": "index.coffee",
   "scripts": {
