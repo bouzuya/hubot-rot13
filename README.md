@@ -2,6 +2,8 @@
 
 A Hubot script that rotates by 13 places
 
+![](http://img.f.hatena.ne.jp/images/fotolife/b/bouzuya/20140906/20140906182134.gif)
+
 ## Installation
 
     $ npm install git://github.com/bouzuya/hubot-rot13.git
